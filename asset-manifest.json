@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/thinnaphats/sports-detections/static/css/main.012aa9fe.chunk.css",
+    "main.js": "/thinnaphats/sports-detections/static/js/main.68ed475d.chunk.js",
+    "main.js.map": "/thinnaphats/sports-detections/static/js/main.68ed475d.chunk.js.map",
+    "runtime-main.js": "/thinnaphats/sports-detections/static/js/runtime-main.3ebcbb6f.js",
+    "runtime-main.js.map": "/thinnaphats/sports-detections/static/js/runtime-main.3ebcbb6f.js.map",
+    "static/js/2.f4b2c0d4.chunk.js": "/thinnaphats/sports-detections/static/js/2.f4b2c0d4.chunk.js",
+    "static/js/2.f4b2c0d4.chunk.js.map": "/thinnaphats/sports-detections/static/js/2.f4b2c0d4.chunk.js.map",
+    "static/js/3.3b96e20e.chunk.js": "/thinnaphats/sports-detections/static/js/3.3b96e20e.chunk.js",
+    "static/js/3.3b96e20e.chunk.js.map": "/thinnaphats/sports-detections/static/js/3.3b96e20e.chunk.js.map",
+    "8f683f6796b57244f5aa.worker.js": "/thinnaphats/sports-detections/8f683f6796b57244f5aa.worker.js",
+    "8f683f6796b57244f5aa.worker.js.LICENSE.txt": "/thinnaphats/sports-detections/8f683f6796b57244f5aa.worker.js.LICENSE.txt",
+    "8f683f6796b57244f5aa.worker.js.map": "/thinnaphats/sports-detections/8f683f6796b57244f5aa.worker.js.map",
+    "index.html": "/thinnaphats/sports-detections/index.html",
+    "static/css/main.012aa9fe.chunk.css.map": "/thinnaphats/sports-detections/static/css/main.012aa9fe.chunk.css.map",
+    "static/js/2.f4b2c0d4.chunk.js.LICENSE.txt": "/thinnaphats/sports-detections/static/js/2.f4b2c0d4.chunk.js.LICENSE.txt",
+    "static/media/check.06c31cf8.svg": "/thinnaphats/sports-detections/static/media/check.06c31cf8.svg",
+    "static/media/close.b502d4ba.svg": "/thinnaphats/sports-detections/static/media/close.b502d4ba.svg",
+    "static/media/gallery.45752e9c.svg": "/thinnaphats/sports-detections/static/media/gallery.45752e9c.svg",
+    "static/media/gear.b1f1407e.svg": "/thinnaphats/sports-detections/static/media/gear.b1f1407e.svg",
+    "static/media/no-check.fe894ae6.svg": "/thinnaphats/sports-detections/static/media/no-check.fe894ae6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ebcbb6f.js",
+    "static/js/2.f4b2c0d4.chunk.js",
+    "static/css/main.012aa9fe.chunk.css",
+    "static/js/main.68ed475d.chunk.js"
+  ]
+}
